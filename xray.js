@@ -5,7 +5,7 @@ import { connect } from 'cloudflare:sockets';
 // How to generate your own unique UUID:
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 // Or generate it from V2rayN. Please make sure it is unique for you to know.
-let userID = 'c4831fdc-9890-48b4-bc6a-25ea89ecac85';
+let userID = '551611ce-5007-422e-a587-370beaca0ed6';
 
 // More Proxyip can be found from https://blog.51sec.org/2024/11/use-v2rayn-vpn-and-free-online-service.html
 // Here is an example one.
